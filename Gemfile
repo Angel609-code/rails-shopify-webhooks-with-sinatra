@@ -49,6 +49,11 @@ group :development, :test do
   gem "debug", platforms: %i[ mri windows ]
 end
 
+# Sinatra: A DSL for quickly creating web applications in Ruby with minimal effort.
+gem 'sinatra'
+
+# ActiveSupport: A collection of Ruby utility classes and extension that are useful for Rails and other Ruby applications. Exist with Rails 7
+
 group :development do
   # Use console on exceptions pages [https://github.com/rails/web-console]
   gem "web-console"

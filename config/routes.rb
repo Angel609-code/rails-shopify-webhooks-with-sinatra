@@ -7,4 +7,9 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "posts#index"
+
+  # Webhooks
+  post 'webhooks/product_update', to: 'product_update_webhook#receive_webhook'
+
+  post 'webhooks/customer_update', to: 'customer_update_webhook#receive_webhook'
 end
