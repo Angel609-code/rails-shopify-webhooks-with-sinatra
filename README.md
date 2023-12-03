@@ -18,7 +18,7 @@ This project demonstrates how to set up a Shopify webhook listener in a Rails 7.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/shopify-webhooks.git
+    git clone https://github.com/Angel609-code/rails-shopify-webhooks-with-sinatra
     ```
 
 2. Install dependencies:
