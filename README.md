@@ -59,16 +59,12 @@ This project demonstrates how to set up a Shopify webhook listener in a Rails 7.
 
 Feel free to contribute to this project. Follow the [contribution guidelines](CONTRIBUTING.md) for more details.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 
 - Thanks to Shopify for providing comprehensive webhook documentation.
 
 ## Contact
 
-For any inquiries, please contact [Your Name](mailto:your.email@example.com).
+For any inquiries, please contact [Jose Guerrero](mailto:angelguerrerojose609@gmail.com).
 
 Happy coding! 👩‍💻👨‍💻
